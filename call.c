@@ -1,5 +1,4 @@
 #include "private.h"
-#include <stdlib.h>
 #include <stdio.h>
 
 int public_add(int a, int b)
